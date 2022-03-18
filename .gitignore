@@ -1,0 +1,6 @@
+*.iml
+/target/
+/logs/
+/LOGS_IS_UNDEFINED/
+.idea/
+/lib/
